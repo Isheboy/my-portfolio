@@ -1,6 +1,8 @@
 # Ishengoma Kakwezi - Personal Portfolio 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://isheboy.github.io/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://iamishengoma.netlify.app)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://isheboy.github.io/my-portfolio)
+[![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://iamishengoma.netlify.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-success)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
@@ -236,18 +238,25 @@ This portfolio meets all **PLP Academy July 2025 Cohort Hackathon** requirements
 
 ## 🌐 Deployment
 
-### GitHub Pages (Recommended)
+### GitHub Pages
 
 1. Push your code to GitHub repository
 2. Go to repository Settings → Pages
 3. Select source branch (main)
 4. Your portfolio will be live at: `https://yourusername.github.io/my-portfolio`
 
+### Netlify (Current Deployment)
+
+1. **Live Site**: [https://iamishengoma.netlify.app](https://iamishengoma.netlify.app)
+2. **Dashboard**: [Netlify Dashboard](https://app.netlify.com/projects/iamishengoma/overview)
+3. **Deployment Method**: Git-based continuous deployment
+4. **Auto-deploy**: Updates automatically when you push to GitHub
+
 ### Alternative Platforms
 
-- **Netlify**: Drag and drop deployment
 - **Vercel**: Git-based deployment
 - **GitHub Codespaces**: Development environment
+- **Surge.sh**: Static site hosting
 
 ## 🤝 Contributing
 
@@ -285,7 +294,9 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Event**: PLP Academy July 2025 Cohort Hackathon 1: Portfolio Challenge
 - **Participant**: Ishengoma Kakwezi
 - **Repository**: [my-portfolio](https://github.com/Isheboy/my-portfolio)
-- **Live Demo**: [Portfolio Website](https://isheboy.github.io/my-portfolio)
+- **Live Demo**: [Portfolio Website](https://iamishengoma.netlify.app)
+- **GitHub Pages**: [Alternative Link](https://isheboy.github.io/my-portfolio)
+- **Netlify Dashboard**: [Project Overview](https://app.netlify.com/projects/iamishengoma/overview)
 
 ---
 
