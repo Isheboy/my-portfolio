@@ -113,7 +113,7 @@ my-portfolio/
     ├── home.png          # TaskFlow home page screenshot
     ├── login.png         # TaskFlow login page screenshot
     ├── register.png      # TaskFlow registration screenshot
-    └── ISHENGOMA_KAKWEZI_Resume.pdf  # Downloadable CV
+    └── ISHENGOMA_KAKWEZI_CV.pdf  # Downloadable CV
 ```
 
 ## 🎨 Design System
